@@ -40,22 +40,8 @@ This project implements a three-zone mho characteristic relay for transmission l
 4. Execute the cells in the provided notebook to run the simulation.
 
 
-## Project Structure
-```
-Distance-Relay-Simulation-using-Discrete-Fourier-Transform/
-│
-├── notebooks/
-│   └── simulation.ipynb   # Main simulation notebook
-├── src/
-│   ├── fault_simulation.py # Fault condition modeling
-│   ├── relay_logic.py      # Relay decision-making logic
-│   └── dft_utils.py        # DFT calculation utilities
-├── data/
-│   └── sample_faults.csv   # Sample data for fault scenarios
-├── README.md               # Project overview and instructions
-├── requirements.txt        # Required Python libraries
-└── LICENSE                 # License information
-```
+![download](https://github.com/user-attachments/assets/f55aaa2f-d82d-4377-a835-4d8cba8f92e1)
+
 
 ## Applications
 - Demonstrates the use of distance relays for power system protection.
